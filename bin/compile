@@ -1,3 +1,7 @@
 #!/bin/sh
 
 echo "-----> compile"
+
+printenv
+
+ls -la /app/.apt/usr/lib/x86_64-linux-gnu/
