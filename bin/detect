@@ -1,3 +1,5 @@
 #!/bin/sh
 
+echo "heroku-buildpack-print-env start"
+
 echo "-----> detect"
